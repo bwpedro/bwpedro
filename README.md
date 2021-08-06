@@ -1,5 +1,5 @@
 ### Hey, I'm Pedro Botelho 👋
-#### I'm a full-stack developer based in Ponta Grossa, Brazil working as Lead Developer at [Medcloud](https://www.medcloud.com.br).
+#### I'm a full-stack engineer based in Ponta Grossa, Brazil working as Lead Developer at [Medcloud](https://www.medcloud.com.br).
 
 <hr>
  <div>
