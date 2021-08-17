@@ -1,4 +1,4 @@
-### Hey, I'm Pedro Botelho 👋
+### Hey, I'm Pedro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 ##### I'm a full-stack engineer based in Ponta Grossa, Brazil working as Lead Developer at [Medcloud](https://www.medcloud.com.br).
 
 ##### Would you like to find me?
