@@ -1,5 +1,5 @@
 ### Hey, I'm Pedro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-##### I'm a full-stack engineer based in Ponta Grossa, Brazil working as Lead Developer at [Medcloud](https://www.medcloud.com.br).
+##### I'm a software engineer based in Ponta Grossa, Brazil working as IT Analyst at [BTG Pactual](https://www.btgpactual.com/).
 
 ##### Would you like to find me?
 
