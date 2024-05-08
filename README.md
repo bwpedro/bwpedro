@@ -1,5 +1,5 @@
 ### Hey, I'm Pedro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-##### I'm a software engineer based in Curitiba, Brazil working as IT Offshore Analyst at [BTG Pactual](https://www.btgpactual.com/).
+##### I'm a software engineer based in Curitiba, Brazil working as Software Engineer at [EBANX](https://www.ebanx.com/en/).
 
 ##### Would you like to find me?
 
