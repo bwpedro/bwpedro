@@ -1,5 +1,5 @@
 ### Hey, I'm Pedro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-##### I'm a software engineer based in Curitiba, Brazil working as Software Engineer at [Inter](https://inter.co/).
+##### I'm a software engineer based in Brazil working as a Senior Software Engineer at [Clair](https://getclair.com/).
 
 ##### Would you like to find me?
 
